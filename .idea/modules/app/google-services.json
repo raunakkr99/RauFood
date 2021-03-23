@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "907621337852",
+    "project_id": "raufood-1398e",
+    "storage_bucket": "raufood-1398e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907621337852:android:5c9e770f40ac9325f26579",
+        "android_client_info": {
+          "package_name": "com.example.raufood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907621337852-7qu2urgtc8j2ngvustbblf3chgnjmg0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raufood",
+            "certificate_hash": "83da0a418daac3f9026c0d0220ebe9c922f8a6d8"
+          }
+        },
+        {
+          "client_id": "907621337852-sh59rnb542hh4ju5arf0k1s2bcmjtfd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzGbtYtHck-H5pU64kpAAa6Zb2Icv4Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907621337852-sh59rnb542hh4ju5arf0k1s2bcmjtfd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
